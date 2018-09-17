@@ -28,6 +28,7 @@
   $qiNiu = Yii::$app->qiniu;
   $qiNiu->uploadFile($tempName,$filename);
   
+  
   说明：
   $tempName  上传图片的临时路径
   $object  目录名+文件名 或 文件名
