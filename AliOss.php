@@ -1,6 +1,6 @@
 <?php
 
-namespace yongli\yongli;
+namespace yongli\yongliweb;
 use OSS\OssClient;
 class AliOss{
     /**上传图片到阿里云oss配置

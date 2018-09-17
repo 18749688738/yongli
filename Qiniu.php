@@ -1,6 +1,6 @@
 <?php
 
-namespace yongli\yongli;
+namespace yongli\yongliweb;
 class Qiniu{
     /**上传图片配置
      * @var
