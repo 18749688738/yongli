@@ -12,9 +12,7 @@
     ],
 	
     "require": {
-        "yiisoft/yii2": "*",
-        "aliyuncs/oss-sdk-php": "^2.3",
-        "crazyfd/yii2-qiniu": "*"
+        "yiisoft/yii2": "*"
     },
 	"autoload": {
 		"psr-4": { "yii2\\yii2-yongli\\": "" }
