@@ -1,0 +1,22 @@
+{
+    "name": "yii2/yii2-yongli",
+    "description": "yii2yongli插件",
+	"keywords": ["yii", "yongli"],
+	"type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yongli",
+            "email": "yongliweb@qq.com"
+        }
+    ],
+	
+    "require": {
+        "yiisoft/yii2": "*",
+        "aliyuncs/oss-sdk-php": "^2.3",
+        "crazyfd/yii2-qiniu": "*"
+    },
+	"autoload": {
+		"psr-4": { "yii2\\yii2-yongli\\": "" }
+	}
+}
